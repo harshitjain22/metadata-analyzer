@@ -1,0 +1,4 @@
+Object Name,Field Name,Type,Populated On(%)
+User,echosign_dev1__EchoSign_Allow_Delegated_Sending__c,boolean,0%
+User,echosign_dev1__EchoSign_Email_Verified__c,boolean,0%
+User,BFC_Business_Unit__c,picklist,88%
